@@ -5,6 +5,6 @@ This can be seen on [my personal website](https://steoneill.dev)
 
 ## Todo
 
-[x] Typescript
-[x] Allow A11Y score to be returned
-[x] A11Y thresholds
+- [x] Typescript
+- [x] Allow A11Y score to be returned
+- [x] A11Y thresholds
